@@ -93,7 +93,20 @@
         padding: 0px 10px;
         font-size: 18px;
     }
+    .banner-caption h1 {
+        max-width: 400px;
+        font-size: 30px;
+        padding: 8px 0;
+        margin-top: 50px;
+    }
+    .banner-caption h2 {
+         
+        padding: 10px 20px;
+        font-size: 27px;
+       
+    }
 }
+
 @media (max-width:410px) {
     .header-right ul li a {
         padding: 0px 10px;
@@ -102,6 +115,20 @@
     .header-left img {
         width: 150px;
         
+    }
+    .banner-caption h1 {
+        
+        max-width: 365px;
+        margin: auto;
+        font-size: 30px;
+        padding: 10px 0;
+        border-radius: 5px;
+        margin-top: 30px;
+    }
+    .banner-caption h2 {
+        padding: 10px 20px;
+        font-size: 27px;
+       
     }
 }
 @media (max-width:390px) {
@@ -113,6 +140,17 @@
         width: 140px;
        
     }
+    .banner-caption h1 {
+        max-width: 350px;
+        font-size: 30px;
+        padding: 8px 0;
+        margin-top: 50px;
+    }
+    .banner-caption h2 {
+        padding: 10px 20px;
+        font-size: 27px;
+       
+    }
 }
 @media (max-width:370px) {
     .header-right ul li a {
@@ -121,6 +159,17 @@
     }
     .header-left img {
         width: 140px;
+       
+    }
+    .banner-caption h1 {
+        max-width: 350px;
+        font-size: 30px;
+        padding: 8px 0;
+        margin-top: 50px;
+    }
+    .banner-caption h2 {
+        padding: 10px 20px;
+        font-size: 27px;
        
     }
 }
