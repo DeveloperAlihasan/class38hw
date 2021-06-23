@@ -205,6 +205,7 @@ img{
 
 .social-menu{
     text-align: right;
+    padding: 50px;
 }
 .social-menu li{
     display: inline-block;
