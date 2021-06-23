@@ -40,7 +40,7 @@
         text-align: center;
     }
 }
-@media (max-width:680px) {
+@media (max-width:690px) {
     .header-right ul li a {
         
         padding: 0 22px;
