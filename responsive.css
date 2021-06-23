@@ -44,7 +44,7 @@
     .header-right ul li a {
         
         padding: 0 22px;
-        line-height: 60px;
+        
         
     }
     .service-item {
@@ -63,7 +63,7 @@
         padding: 50px;
     }
 }
-@media (max-width:598px) {
+@media (max-width:600px) {
     .header-right ul li a {
         padding: 0px 16px;
         line-height: 60px;
