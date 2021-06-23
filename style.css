@@ -196,6 +196,7 @@ img{
 .footer-left{
     float: left;
     width: 40%;
+    
 }
 .footer-right{
     float: right;
@@ -203,9 +204,9 @@ img{
 }
 
 
-.social-menu{
-    text-align: right;
-    padding: 50px;
+.social-menu {
+	text-align: right;
+	margin-right: 20px;
 }
 .social-menu li{
     display: inline-block;
