@@ -63,9 +63,18 @@
         padding: 50px;
     }
 }
+@media (max-width:630px) {
+    .header-right ul li a {
+        padding: 0px 15px;
+        line-height: 60px;
+    }
+    .blog-item {
+        padding: 50px;
+    }
+}
 @media (max-width:600px) {
     .header-right ul li a {
-        padding: 0px 16px;
+        padding: 0px 14px;
         line-height: 60px;
     }
     .blog-item {
@@ -73,7 +82,7 @@
     }
 }
 
-@media (max-width:590px) {
+@media (max-width:550px) {
     .header-right ul li a {
         padding: 0px 13px;
         font-size: 18px;
