@@ -250,6 +250,10 @@
        
         margin-left: 10px;
     }
+    .service-item h3 {
+        margin: 20px 0;
+        font-size: 22px;
+    }
 }
 @media (max-width:270px) {
     .header-right ul li a {
@@ -273,5 +277,9 @@
     .blog-left-notificaiton ul {
        
         margin-left: 10px;
+    }
+    .service-item h3 {
+        margin: 20px 0;
+        font-size: 22px;
     }
 }
