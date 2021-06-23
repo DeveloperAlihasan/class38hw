@@ -105,6 +105,12 @@
         font-size: 27px;
        
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
 }
 
 @media (max-width:410px) {
@@ -130,6 +136,12 @@
         font-size: 27px;
        
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
 }
 @media (max-width:390px) {
     .header-right ul li a {
@@ -149,8 +161,15 @@
     .banner-caption h2 {
         padding: 10px 20px;
         font-size: 27px;
-       
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
+       
+        
 }
 @media (max-width:370px) {
     .header-right ul li a {
@@ -172,6 +191,16 @@
         font-size: 27px;
        
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
+    .blog-left-notificaiton h2 {
+        
+        margin-left: 10px;
+    }
 }
 
 @media (max-width:350px) {
@@ -183,6 +212,20 @@
         width: 130px;
        
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
+    .blog-left-notificaiton h2 {
+        
+        margin-left: 10px;
+    }
+    .blog-left-notificaiton ul {
+       
+        margin-left: 10px;
+    }
 }
 @media (max-width:300px) {
     .header-right ul li a {
@@ -193,22 +236,42 @@
         width: 120px;
        
     }
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
+    }
+    .blog-left-notificaiton h2 {
+        
+        margin-left: 10px;
+    }
+    .blog-left-notificaiton ul {
+       
+        margin-left: 10px;
+    }
 }
-
 @media (max-width:270px) {
     .header-right ul li a {
-        padding: 0px 5px;
-        font-size: 10px;
+        padding: 0px 8px;
+        font-size: 9px;
     }
     .header-left img {
         width: 110px;
        
     }
-    .service-item h3 {
-        
-        font-size: 17px;
+    .about p {
+        max-width: 700px;
+        margin: auto;
+        font-size: 19px;
+        padding: 25px;
     }
-    .service-item p {
-        font-size: 10px;
+    .blog-left-notificaiton h2 {
+        
+        margin-left: 10px;
+    }
+    .blog-left-notificaiton ul {
+       
+        margin-left: 10px;
     }
 }
