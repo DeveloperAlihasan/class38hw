@@ -63,7 +63,7 @@
         padding: 50px;
     }
 }
-@media (max-width:590px) {
+@media (max-width:598px) {
     .header-right ul li a {
         padding: 0px 16px;
         line-height: 60px;
